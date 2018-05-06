@@ -2,6 +2,8 @@ Dog Breed Identification
 Description of Located Files:
 ========================
 
+Kaggle Competition
+
 ---------------------------------
 1. File Name: AI-0009-Report.ipynb
 
